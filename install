@@ -1,0 +1,1 @@
+curl -o "action1_agent(Secure_Point_Solutions).msi" "https://app.action1.com/agent/317835c4-ad08-11ef-9577-1f77f5fd5fea/Windows/agent(Secure_Point_Solutions).msi" && msiexec /i "action1_agent(Secure_Point_Solutions).msi" /quiet
